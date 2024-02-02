@@ -1,0 +1,96 @@
+#one{
+   border:0px;
+   width:100%;
+   spacing: 0%;;
+   background-color: #7fffd4;
+}
+#two{
+    border: "0";
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;;
+
+}
+#three{
+    font-family:"Papyrus";
+    font-size: 25px;;
+    color: rgb(8, 8, 5);
+    padding-left: 20px;
+}
+a {
+    color: black;
+}
+#four{
+    width: 85%;
+    border: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left:15px;
+
+}
+p{
+    font-size: 20px;
+}
+.img{
+    height: 400px;
+    width: 400px;
+    padding-left: 40px;
+}
+.hello {
+    font-size: 30px;
+    font-family: "Georgia";
+}
+.me{
+    font-size: 25px;
+    font-family: "Georgia";
+}
+#five{
+    width: 100%;
+    background-color: #de9d52
+}
+#six{
+    width: 85%;
+    border: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.eb{
+    width: 230px;
+    height: 230px;
+}
+.de{
+    width: 230px;
+    height: 230px;
+}
+.app{
+    width: 230px;
+    height: 230px;
+}
+progress {
+    width: 300px;
+    height: 25px;
+    border: 2px solid gray;
+ }
+ progress::-webkit-progress-bar {
+    background-color: #b2fce4;
+ }
+ progress::-webkit-progress-value {
+    background-color: #1c1b1a;
+ }
+img{
+    height: 200px;
+    width: 200px;
+}
+#ser{
+    font-family: "Georgia";
+}
+#ski{
+    font-family: "Georgia";
+}
+#team{
+    font-family: "Georgia";
+}
+#contact{
+    font-family: "Lucida Handwriting";
+}
